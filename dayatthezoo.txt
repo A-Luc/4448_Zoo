@@ -1,0 +1,361 @@
+Welcome to the Zoo. Enter the number of days:
+7
+Day: 1
+Zoey the zookeeper arrives at the zoo
+
+Zoey the zookeeper wakes up the animals!
+Dino the dog wakes up
+Waldo the wolf wakes up
+Charlie the chimp wakes up
+George the gorilla wakes up
+Harry the hippo wakes up
+Ethan the elephant wakes up
+Carl the cat wakes up
+Leo the lion wakes up
+
+Zoey the zookeeper makes sure all animals are accounted for
+Dino the dog barks
+Waldo the wolf howls
+Charlie the chimp hoots
+George the gorilla grunts
+Harry the hippo grunts
+Ethan the elephant rumbles
+Carl the cat purrs
+Leo the lion roars
+
+Zoey the zookeeper feeds the animals
+Dino the dog eats kibble
+Waldo the wolf eats raw meat
+Charlie the chimp eats fruit
+George the gorilla eats bamboo
+Harry the hippo eats grass
+Ethan the elephant eats fruit
+Carl the cat eats kibble
+Leo the lion eats raw meat
+
+Zoey the zookeeper lets the animals out to exercise
+The canines dig!
+The primates roam in small groups
+The pachyderms roam together
+The felines roam seperated from each other
+
+Zoey the zookeeper puts the animals to sleep
+Dino the dog goes to sleep
+Waldo the wolf goes to sleep
+Charlie the chimp goes to sleep
+George the gorilla goes to sleep
+Harry the hippo goes to sleep
+Ethan the elephant goes to sleep
+Carl the cat goes to sleep
+Leo the lion goes to sleep
+
+Zoey the zookeeper leaves the zoo
+
+Day: 2
+Zoey the zookeeper arrives at the zoo
+
+Zoey the zookeeper wakes up the animals!
+Dino the dog wakes up
+Waldo the wolf wakes up
+Charlie the chimp wakes up
+George the gorilla wakes up
+Harry the hippo wakes up
+Ethan the elephant wakes up
+Carl the cat wakes up
+Leo the lion wakes up
+
+Zoey the zookeeper makes sure all animals are accounted for
+Dino the dog barks
+Waldo the wolf howls
+Charlie the chimp hoots
+George the gorilla grunts
+Harry the hippo grunts
+Ethan the elephant rumbles
+Carl the cat purrs
+Leo the lion roars
+
+Zoey the zookeeper feeds the animals
+Dino the dog eats kibble
+Waldo the wolf eats raw meat
+Charlie the chimp eats fruit
+George the gorilla eats bamboo
+Harry the hippo eats grass
+Ethan the elephant eats fruit
+Carl the cat eats kibble
+Leo the lion eats raw meat
+
+Zoey the zookeeper lets the animals out to exercise
+The canines roam in a pack
+The primates roam in small groups
+The pachyderms roam together
+The felines roam seperated from each other
+
+Zoey the zookeeper puts the animals to sleep
+Dino the dog goes to sleep
+Waldo the wolf goes to sleep
+Charlie the chimp goes to sleep
+George the gorilla goes to sleep
+Harry the hippo goes to sleep
+Ethan the elephant goes to sleep
+Carl the cat goes to sleep
+Leo the lion roars
+
+Zoey the zookeeper leaves the zoo
+
+Day: 3
+Zoey the zookeeper arrives at the zoo
+
+Zoey the zookeeper wakes up the animals!
+Dino the dog wakes up
+Waldo the wolf wakes up
+Charlie the chimp wakes up
+George the gorilla wakes up
+Harry the hippo wakes up
+Ethan the elephant wakes up
+Carl the cat wakes up
+Leo the lion wakes up
+
+Zoey the zookeeper makes sure all animals are accounted for
+Dino the dog barks
+Waldo the wolf howls
+Charlie the chimp hoots
+George the gorilla grunts
+Harry the hippo grunts
+Ethan the elephant rumbles
+Carl the cat purrs
+Leo the lion roars
+
+Zoey the zookeeper feeds the animals
+Dino the dog eats kibble
+Waldo the wolf eats raw meat
+Charlie the chimp eats fruit
+George the gorilla eats bamboo
+Harry the hippo eats grass
+Ethan the elephant eats fruit
+Carl the cat eats kibble
+Leo the lion eats raw meat
+
+Zoey the zookeeper lets the animals out to exercise
+The canines roam in a pack
+The primates roam in small groups
+The pachyderms roam together
+The felines roam seperated from each other
+
+Zoey the zookeeper puts the animals to sleep
+Dino the dog goes to sleep
+Waldo the wolf goes to sleep
+Charlie the chimp goes to sleep
+George the gorilla goes to sleep
+Harry the hippo goes to sleep
+Ethan the elephant goes to sleep
+Carl the cat goes to sleep
+Leo the lion roams around
+
+Zoey the zookeeper leaves the zoo
+
+Day: 4
+Zoey the zookeeper arrives at the zoo
+
+Zoey the zookeeper wakes up the animals!
+Dino the dog wakes up
+Waldo the wolf wakes up
+Charlie the chimp wakes up
+George the gorilla wakes up
+Harry the hippo wakes up
+Ethan the elephant wakes up
+Carl the cat wakes up
+Leo the lion wakes up
+
+Zoey the zookeeper makes sure all animals are accounted for
+Dino the dog barks
+Waldo the wolf howls
+Charlie the chimp hoots
+George the gorilla grunts
+Harry the hippo grunts
+Ethan the elephant rumbles
+Carl the cat purrs
+Leo the lion roars
+
+Zoey the zookeeper feeds the animals
+Dino the dog eats kibble
+Waldo the wolf eats raw meat
+Charlie the chimp eats fruit
+George the gorilla eats bamboo
+Harry the hippo eats grass
+Ethan the elephant eats fruit
+Carl the cat eats kibble
+Leo the lion eats raw meat
+
+Zoey the zookeeper lets the animals out to exercise
+The canines roam in a pack
+The primates roam in small groups
+The pachyderms roam together
+The felines roam seperated from each other
+
+Zoey the zookeeper puts the animals to sleep
+Dino the dog goes to sleep
+Waldo the wolf goes to sleep
+Charlie the chimp goes to sleep
+George the gorilla goes to sleep
+Harry the hippo goes to sleep
+Ethan the elephant goes to sleep
+Carl the cat roams around
+Leo the lion roams around
+
+Zoey the zookeeper leaves the zoo
+
+Day: 5
+Zoey the zookeeper arrives at the zoo
+
+Zoey the zookeeper wakes up the animals!
+Dino the dog wakes up
+Waldo the wolf wakes up
+Charlie the chimp wakes up
+George the gorilla wakes up
+Harry the hippo wakes up
+Ethan the elephant wakes up
+Carl the cat wakes up
+Leo the lion wakes up
+
+Zoey the zookeeper makes sure all animals are accounted for
+Dino the dog barks
+Waldo the wolf howls
+Charlie the chimp hoots
+George the gorilla grunts
+Harry the hippo grunts
+Ethan the elephant rumbles
+Carl the cat purrs
+Leo the lion roars
+
+Zoey the zookeeper feeds the animals
+Dino the dog eats kibble
+Waldo the wolf eats raw meat
+Charlie the chimp eats fruit
+George the gorilla eats bamboo
+Harry the hippo eats grass
+Ethan the elephant eats fruit
+Carl the cat eats kibble
+Leo the lion eats raw meat
+
+Zoey the zookeeper lets the animals out to exercise
+The canines roam in a pack
+The primates roam in small groups
+The pachyderms roam together
+The felines roam seperated from each other
+
+Zoey the zookeeper puts the animals to sleep
+Dino the dog goes to sleep
+Waldo the wolf goes to sleep
+Charlie the chimp goes to sleep
+George the gorilla goes to sleep
+Harry the hippo goes to sleep
+Ethan the elephant goes to sleep
+Carl the cat roams around
+Leo the lion goes to sleep
+
+Zoey the zookeeper leaves the zoo
+
+Day: 6
+Zoey the zookeeper arrives at the zoo
+
+Zoey the zookeeper wakes up the animals!
+Dino the dog wakes up
+Waldo the wolf wakes up
+Charlie the chimp wakes up
+George the gorilla wakes up
+Harry the hippo wakes up
+Ethan the elephant wakes up
+Carl the cat wakes up
+Leo the lion wakes up
+
+Zoey the zookeeper makes sure all animals are accounted for
+Dino the dog barks
+Waldo the wolf howls
+Charlie the chimp hoots
+George the gorilla grunts
+Harry the hippo grunts
+Ethan the elephant rumbles
+Carl the cat purrs
+Leo the lion roars
+
+Zoey the zookeeper feeds the animals
+Dino the dog eats kibble
+Waldo the wolf eats raw meat
+Charlie the chimp eats fruit
+George the gorilla eats bamboo
+Harry the hippo eats grass
+Ethan the elephant eats fruit
+Carl the cat eats kibble
+Leo the lion eats raw meat
+
+Zoey the zookeeper lets the animals out to exercise
+The canines dig!
+The primates roam in small groups
+The pachyderms roam together
+The felines roam seperated from each other
+
+Zoey the zookeeper puts the animals to sleep
+Dino the dog goes to sleep
+Waldo the wolf goes to sleep
+Charlie the chimp goes to sleep
+George the gorilla goes to sleep
+Harry the hippo goes to sleep
+Ethan the elephant goes to sleep
+Carl the cat roams around
+Leo the lion roars
+
+Zoey the zookeeper leaves the zoo
+
+Day: 7
+Zoey the zookeeper arrives at the zoo
+
+Zoey the zookeeper wakes up the animals!
+Dino the dog wakes up
+Waldo the wolf wakes up
+Charlie the chimp wakes up
+George the gorilla wakes up
+Harry the hippo wakes up
+Ethan the elephant wakes up
+Carl the cat wakes up
+Leo the lion wakes up
+
+Zoey the zookeeper makes sure all animals are accounted for
+Dino the dog barks
+Waldo the wolf howls
+Charlie the chimp hoots
+George the gorilla grunts
+Harry the hippo grunts
+Ethan the elephant rumbles
+Carl the cat purrs
+Leo the lion roars
+
+Zoey the zookeeper feeds the animals
+Dino the dog eats kibble
+Waldo the wolf eats raw meat
+Charlie the chimp eats fruit
+George the gorilla eats bamboo
+Harry the hippo eats grass
+Ethan the elephant eats fruit
+Carl the cat eats kibble
+Leo the lion eats raw meat
+
+Zoey the zookeeper lets the animals out to exercise
+The canines dig!
+The primates roam in small groups
+The pachyderms roam together
+The felines roam seperated from each other
+
+Zoey the zookeeper puts the animals to sleep
+Dino the dog goes to sleep
+Waldo the wolf goes to sleep
+Charlie the chimp goes to sleep
+George the gorilla goes to sleep
+Harry the hippo goes to sleep
+Ethan the elephant goes to sleep
+Carl the cat goes to sleep
+Leo the lion goes to sleep
+
+Zoey the zookeeper leaves the zoo
+
+
+Process finished with exit code 0
