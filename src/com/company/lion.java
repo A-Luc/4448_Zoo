@@ -6,13 +6,13 @@ public class lion extends feline {
         System.out.println(name +" the lion wakes up");
     }
 
-    @Override
+    /*@Override
     public void sleep() {
         int num = getRandomNumberInRange(1,100);
         if(num <= 30){System.out.println(name + " the lion roams around");}
         else if(num > 30 && num <= 60){makeNoise();}
         else{System.out.println(name +" the lion goes to sleep");}
-    }
+    }*/
 
     @Override
     public void eat() {
@@ -32,5 +32,11 @@ public class lion extends feline {
             throw new IllegalArgumentException("max must be greater than min");
         }
         return (int)(Math.random() * ((max - min) + 1)) + min;
+    }
+    public void notSleep(){
+        System.out.println(name + " the lion roams around");
+    }
+    public void toSleep(){
+        System.out.println(name + " the lion goes to sleep");
     }
 }

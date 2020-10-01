@@ -1,8 +1,12 @@
 package com.company;
 
-public abstract class zooEmployee {
+import java.beans.PropertyChangeEvent;
+import java.beans.PropertyChangeListener;
+
+public abstract class zooEmployee implements PropertyChangeListener {
     public String name;
     public String jobTitle;
+    private int time;
 
     //Getters and Setters
 
@@ -20,6 +24,19 @@ public abstract class zooEmployee {
 
     private void setJobTitle(String jobTitle) {
         this.jobTitle = jobTitle;
+    }
+
+    //observer pattern
+    public void propertyChange(PropertyChangeEvent evt){
+        this.setTime((int) evt.getNewValue());
+    }
+
+    public int getTime(){
+        return time;
+    }
+
+    public void setTime(int time){
+        this.time = time;
     }
 
     public abstract void wakeAnimals();

@@ -1,8 +1,15 @@
 Welcome to the Zoo. Enter the number of days:
 7
 Day: 1
-Zoey the zookeeper arrives at the zoo
 
+8:00 AM
+Zoey the zookeeper arrives at the zoo
+Andy the zoo announcer arrives at the zoo
+Stevie the zoo food server arrives at the zoo
+*Good morning, this is the zoo announcer. All employees have arrived.*
+
+9:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to wake the animals!*
 Zoey the zookeeper wakes up the animals!
 Dino the dog wakes up
 Waldo the wolf wakes up
@@ -12,7 +19,10 @@ Harry the hippo wakes up
 Ethan the elephant wakes up
 Carl the cat wakes up
 Leo the lion wakes up
+Stevie the zoo food server is making food
 
+10:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to take roll call of the animals!*
 Zoey the zookeeper makes sure all animals are accounted for
 Dino the dog barks
 Waldo the wolf howls
@@ -23,6 +33,8 @@ Ethan the elephant rumbles
 Carl the cat purrs
 Leo the lion roars
 
+11:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to feed the animals!*
 Zoey the zookeeper feeds the animals
 Dino the dog eats kibble
 Waldo the wolf eats raw meat
@@ -33,12 +45,35 @@ Ethan the elephant eats fruit
 Carl the cat eats kibble
 Leo the lion eats raw meat
 
-Zoey the zookeeper lets the animals out to exercise
-The canines dig!
-The primates roam in small groups
-The pachyderms roam together
-The felines roam seperated from each other
+12:00 PM
+*Lunch Time!*
+Stevie the zoo food server is serving food
 
+1:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to exercise the animals!*
+Zoey the zookeeper lets the animals out to exercise
+The canines roam in a pack
+The primates roam in small groups
+The pachyderms charge!
+The felines roam seperated from each other
+Stevie the zoo food server is cleaning up
+
+2:00 PM
+
+3:00 PM
+Stevie the zoo food server is making food
+
+4:00 PM
+
+5:00 PM
+*Dinner Time!*
+Stevie the zoo food server is serving food
+
+6:00 PM
+Stevie the zoo food server is cleaning up
+
+7:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to put the animals to bed!*
 Zoey the zookeeper puts the animals to sleep
 Dino the dog goes to sleep
 Waldo the wolf goes to sleep
@@ -46,14 +81,25 @@ Charlie the chimp goes to sleep
 George the gorilla goes to sleep
 Harry the hippo goes to sleep
 Ethan the elephant goes to sleep
-Carl the cat goes to sleep
-Leo the lion goes to sleep
+Carl the cat purrs
+Leo the lion roams around
 
+8:00 PM
+*The zoo is now closing!*
+Stevie the zoo food server leaves the zoo
+Andy the zoo announcer leaves the zoo
 Zoey the zookeeper leaves the zoo
 
 Day: 2
-Zoey the zookeeper arrives at the zoo
 
+8:00 AM
+Zoey the zookeeper arrives at the zoo
+Andy the zoo announcer arrives at the zoo
+Stevie the zoo food server arrives at the zoo
+*Good morning, this is the zoo announcer. All employees have arrived.*
+
+9:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to wake the animals!*
 Zoey the zookeeper wakes up the animals!
 Dino the dog wakes up
 Waldo the wolf wakes up
@@ -63,7 +109,10 @@ Harry the hippo wakes up
 Ethan the elephant wakes up
 Carl the cat wakes up
 Leo the lion wakes up
+Stevie the zoo food server is making food
 
+10:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to take roll call of the animals!*
 Zoey the zookeeper makes sure all animals are accounted for
 Dino the dog barks
 Waldo the wolf howls
@@ -74,6 +123,8 @@ Ethan the elephant rumbles
 Carl the cat purrs
 Leo the lion roars
 
+11:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to feed the animals!*
 Zoey the zookeeper feeds the animals
 Dino the dog eats kibble
 Waldo the wolf eats raw meat
@@ -84,12 +135,35 @@ Ethan the elephant eats fruit
 Carl the cat eats kibble
 Leo the lion eats raw meat
 
+12:00 PM
+*Lunch Time!*
+Stevie the zoo food server is serving food
+
+1:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to exercise the animals!*
 Zoey the zookeeper lets the animals out to exercise
 The canines roam in a pack
 The primates roam in small groups
 The pachyderms roam together
 The felines roam seperated from each other
+Stevie the zoo food server is cleaning up
 
+2:00 PM
+
+3:00 PM
+Stevie the zoo food server is making food
+
+4:00 PM
+
+5:00 PM
+*Dinner Time!*
+Stevie the zoo food server is serving food
+
+6:00 PM
+Stevie the zoo food server is cleaning up
+
+7:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to put the animals to bed!*
 Zoey the zookeeper puts the animals to sleep
 Dino the dog goes to sleep
 Waldo the wolf goes to sleep
@@ -97,14 +171,25 @@ Charlie the chimp goes to sleep
 George the gorilla goes to sleep
 Harry the hippo goes to sleep
 Ethan the elephant goes to sleep
-Carl the cat goes to sleep
-Leo the lion roars
+Carl the cat purrs
+Leo the lion roams around
 
+8:00 PM
+*The zoo is now closing!*
+Stevie the zoo food server leaves the zoo
+Andy the zoo announcer leaves the zoo
 Zoey the zookeeper leaves the zoo
 
 Day: 3
-Zoey the zookeeper arrives at the zoo
 
+8:00 AM
+Zoey the zookeeper arrives at the zoo
+Andy the zoo announcer arrives at the zoo
+Stevie the zoo food server arrives at the zoo
+*Good morning, this is the zoo announcer. All employees have arrived.*
+
+9:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to wake the animals!*
 Zoey the zookeeper wakes up the animals!
 Dino the dog wakes up
 Waldo the wolf wakes up
@@ -114,7 +199,10 @@ Harry the hippo wakes up
 Ethan the elephant wakes up
 Carl the cat wakes up
 Leo the lion wakes up
+Stevie the zoo food server is making food
 
+10:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to take roll call of the animals!*
 Zoey the zookeeper makes sure all animals are accounted for
 Dino the dog barks
 Waldo the wolf howls
@@ -125,6 +213,8 @@ Ethan the elephant rumbles
 Carl the cat purrs
 Leo the lion roars
 
+11:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to feed the animals!*
 Zoey the zookeeper feeds the animals
 Dino the dog eats kibble
 Waldo the wolf eats raw meat
@@ -135,12 +225,35 @@ Ethan the elephant eats fruit
 Carl the cat eats kibble
 Leo the lion eats raw meat
 
-Zoey the zookeeper lets the animals out to exercise
-The canines roam in a pack
-The primates roam in small groups
-The pachyderms roam together
-The felines roam seperated from each other
+12:00 PM
+*Lunch Time!*
+Stevie the zoo food server is serving food
 
+1:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to exercise the animals!*
+Zoey the zookeeper lets the animals out to exercise
+The canines dig!
+The primates roam in small groups
+The pachyderms charge!
+The felines roam seperated from each other
+Stevie the zoo food server is cleaning up
+
+2:00 PM
+
+3:00 PM
+Stevie the zoo food server is making food
+
+4:00 PM
+
+5:00 PM
+*Dinner Time!*
+Stevie the zoo food server is serving food
+
+6:00 PM
+Stevie the zoo food server is cleaning up
+
+7:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to put the animals to bed!*
 Zoey the zookeeper puts the animals to sleep
 Dino the dog goes to sleep
 Waldo the wolf goes to sleep
@@ -148,14 +261,25 @@ Charlie the chimp goes to sleep
 George the gorilla goes to sleep
 Harry the hippo goes to sleep
 Ethan the elephant goes to sleep
-Carl the cat goes to sleep
-Leo the lion roams around
+Carl the cat roams around
+Leo the lion roars
 
+8:00 PM
+*The zoo is now closing!*
+Stevie the zoo food server leaves the zoo
+Andy the zoo announcer leaves the zoo
 Zoey the zookeeper leaves the zoo
 
 Day: 4
-Zoey the zookeeper arrives at the zoo
 
+8:00 AM
+Zoey the zookeeper arrives at the zoo
+Andy the zoo announcer arrives at the zoo
+Stevie the zoo food server arrives at the zoo
+*Good morning, this is the zoo announcer. All employees have arrived.*
+
+9:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to wake the animals!*
 Zoey the zookeeper wakes up the animals!
 Dino the dog wakes up
 Waldo the wolf wakes up
@@ -165,7 +289,10 @@ Harry the hippo wakes up
 Ethan the elephant wakes up
 Carl the cat wakes up
 Leo the lion wakes up
+Stevie the zoo food server is making food
 
+10:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to take roll call of the animals!*
 Zoey the zookeeper makes sure all animals are accounted for
 Dino the dog barks
 Waldo the wolf howls
@@ -176,6 +303,8 @@ Ethan the elephant rumbles
 Carl the cat purrs
 Leo the lion roars
 
+11:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to feed the animals!*
 Zoey the zookeeper feeds the animals
 Dino the dog eats kibble
 Waldo the wolf eats raw meat
@@ -186,165 +315,35 @@ Ethan the elephant eats fruit
 Carl the cat eats kibble
 Leo the lion eats raw meat
 
+12:00 PM
+*Lunch Time!*
+Stevie the zoo food server is serving food
+
+1:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to exercise the animals!*
 Zoey the zookeeper lets the animals out to exercise
 The canines roam in a pack
 The primates roam in small groups
 The pachyderms roam together
 The felines roam seperated from each other
+Stevie the zoo food server is cleaning up
 
-Zoey the zookeeper puts the animals to sleep
-Dino the dog goes to sleep
-Waldo the wolf goes to sleep
-Charlie the chimp goes to sleep
-George the gorilla goes to sleep
-Harry the hippo goes to sleep
-Ethan the elephant goes to sleep
-Carl the cat roams around
-Leo the lion roams around
+2:00 PM
 
-Zoey the zookeeper leaves the zoo
+3:00 PM
+Stevie the zoo food server is making food
 
-Day: 5
-Zoey the zookeeper arrives at the zoo
+4:00 PM
 
-Zoey the zookeeper wakes up the animals!
-Dino the dog wakes up
-Waldo the wolf wakes up
-Charlie the chimp wakes up
-George the gorilla wakes up
-Harry the hippo wakes up
-Ethan the elephant wakes up
-Carl the cat wakes up
-Leo the lion wakes up
+5:00 PM
+*Dinner Time!*
+Stevie the zoo food server is serving food
 
-Zoey the zookeeper makes sure all animals are accounted for
-Dino the dog barks
-Waldo the wolf howls
-Charlie the chimp hoots
-George the gorilla grunts
-Harry the hippo grunts
-Ethan the elephant rumbles
-Carl the cat purrs
-Leo the lion roars
+6:00 PM
+Stevie the zoo food server is cleaning up
 
-Zoey the zookeeper feeds the animals
-Dino the dog eats kibble
-Waldo the wolf eats raw meat
-Charlie the chimp eats fruit
-George the gorilla eats bamboo
-Harry the hippo eats grass
-Ethan the elephant eats fruit
-Carl the cat eats kibble
-Leo the lion eats raw meat
-
-Zoey the zookeeper lets the animals out to exercise
-The canines roam in a pack
-The primates roam in small groups
-The pachyderms roam together
-The felines roam seperated from each other
-
-Zoey the zookeeper puts the animals to sleep
-Dino the dog goes to sleep
-Waldo the wolf goes to sleep
-Charlie the chimp goes to sleep
-George the gorilla goes to sleep
-Harry the hippo goes to sleep
-Ethan the elephant goes to sleep
-Carl the cat roams around
-Leo the lion goes to sleep
-
-Zoey the zookeeper leaves the zoo
-
-Day: 6
-Zoey the zookeeper arrives at the zoo
-
-Zoey the zookeeper wakes up the animals!
-Dino the dog wakes up
-Waldo the wolf wakes up
-Charlie the chimp wakes up
-George the gorilla wakes up
-Harry the hippo wakes up
-Ethan the elephant wakes up
-Carl the cat wakes up
-Leo the lion wakes up
-
-Zoey the zookeeper makes sure all animals are accounted for
-Dino the dog barks
-Waldo the wolf howls
-Charlie the chimp hoots
-George the gorilla grunts
-Harry the hippo grunts
-Ethan the elephant rumbles
-Carl the cat purrs
-Leo the lion roars
-
-Zoey the zookeeper feeds the animals
-Dino the dog eats kibble
-Waldo the wolf eats raw meat
-Charlie the chimp eats fruit
-George the gorilla eats bamboo
-Harry the hippo eats grass
-Ethan the elephant eats fruit
-Carl the cat eats kibble
-Leo the lion eats raw meat
-
-Zoey the zookeeper lets the animals out to exercise
-The canines dig!
-The primates roam in small groups
-The pachyderms roam together
-The felines roam seperated from each other
-
-Zoey the zookeeper puts the animals to sleep
-Dino the dog goes to sleep
-Waldo the wolf goes to sleep
-Charlie the chimp goes to sleep
-George the gorilla goes to sleep
-Harry the hippo goes to sleep
-Ethan the elephant goes to sleep
-Carl the cat roams around
-Leo the lion roars
-
-Zoey the zookeeper leaves the zoo
-
-Day: 7
-Zoey the zookeeper arrives at the zoo
-
-Zoey the zookeeper wakes up the animals!
-Dino the dog wakes up
-Waldo the wolf wakes up
-Charlie the chimp wakes up
-George the gorilla wakes up
-Harry the hippo wakes up
-Ethan the elephant wakes up
-Carl the cat wakes up
-Leo the lion wakes up
-
-Zoey the zookeeper makes sure all animals are accounted for
-Dino the dog barks
-Waldo the wolf howls
-Charlie the chimp hoots
-George the gorilla grunts
-Harry the hippo grunts
-Ethan the elephant rumbles
-Carl the cat purrs
-Leo the lion roars
-
-Zoey the zookeeper feeds the animals
-Dino the dog eats kibble
-Waldo the wolf eats raw meat
-Charlie the chimp eats fruit
-George the gorilla eats bamboo
-Harry the hippo eats grass
-Ethan the elephant eats fruit
-Carl the cat eats kibble
-Leo the lion eats raw meat
-
-Zoey the zookeeper lets the animals out to exercise
-The canines dig!
-The primates roam in small groups
-The pachyderms roam together
-The felines roam seperated from each other
-
+7:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to put the animals to bed!*
 Zoey the zookeeper puts the animals to sleep
 Dino the dog goes to sleep
 Waldo the wolf goes to sleep
@@ -355,6 +354,280 @@ Ethan the elephant goes to sleep
 Carl the cat goes to sleep
 Leo the lion goes to sleep
 
+8:00 PM
+*The zoo is now closing!*
+Stevie the zoo food server leaves the zoo
+Andy the zoo announcer leaves the zoo
+Zoey the zookeeper leaves the zoo
+
+Day: 5
+
+8:00 AM
+Zoey the zookeeper arrives at the zoo
+Andy the zoo announcer arrives at the zoo
+Stevie the zoo food server arrives at the zoo
+*Good morning, this is the zoo announcer. All employees have arrived.*
+
+9:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to wake the animals!*
+Zoey the zookeeper wakes up the animals!
+Dino the dog wakes up
+Waldo the wolf wakes up
+Charlie the chimp wakes up
+George the gorilla wakes up
+Harry the hippo wakes up
+Ethan the elephant wakes up
+Carl the cat wakes up
+Leo the lion wakes up
+Stevie the zoo food server is making food
+
+10:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to take roll call of the animals!*
+Zoey the zookeeper makes sure all animals are accounted for
+Dino the dog barks
+Waldo the wolf howls
+Charlie the chimp hoots
+George the gorilla grunts
+Harry the hippo grunts
+Ethan the elephant rumbles
+Carl the cat purrs
+Leo the lion roars
+
+11:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to feed the animals!*
+Zoey the zookeeper feeds the animals
+Dino the dog eats kibble
+Waldo the wolf eats raw meat
+Charlie the chimp eats fruit
+George the gorilla eats bamboo
+Harry the hippo eats grass
+Ethan the elephant eats fruit
+Carl the cat eats kibble
+Leo the lion eats raw meat
+
+12:00 PM
+*Lunch Time!*
+Stevie the zoo food server is serving food
+
+1:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to exercise the animals!*
+Zoey the zookeeper lets the animals out to exercise
+The canines roam in a pack
+The primates roam in small groups
+The pachyderms charge!
+The felines roam seperated from each other
+Stevie the zoo food server is cleaning up
+
+2:00 PM
+
+3:00 PM
+Stevie the zoo food server is making food
+
+4:00 PM
+
+5:00 PM
+*Dinner Time!*
+Stevie the zoo food server is serving food
+
+6:00 PM
+Stevie the zoo food server is cleaning up
+
+7:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to put the animals to bed!*
+Zoey the zookeeper puts the animals to sleep
+Dino the dog goes to sleep
+Waldo the wolf goes to sleep
+Charlie the chimp goes to sleep
+George the gorilla goes to sleep
+Harry the hippo goes to sleep
+Ethan the elephant goes to sleep
+Carl the cat goes to sleep
+Leo the lion roams around
+
+8:00 PM
+*The zoo is now closing!*
+Stevie the zoo food server leaves the zoo
+Andy the zoo announcer leaves the zoo
+Zoey the zookeeper leaves the zoo
+
+Day: 6
+
+8:00 AM
+Zoey the zookeeper arrives at the zoo
+Andy the zoo announcer arrives at the zoo
+Stevie the zoo food server arrives at the zoo
+*Good morning, this is the zoo announcer. All employees have arrived.*
+
+9:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to wake the animals!*
+Zoey the zookeeper wakes up the animals!
+Dino the dog wakes up
+Waldo the wolf wakes up
+Charlie the chimp wakes up
+George the gorilla wakes up
+Harry the hippo wakes up
+Ethan the elephant wakes up
+Carl the cat wakes up
+Leo the lion wakes up
+Stevie the zoo food server is making food
+
+10:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to take roll call of the animals!*
+Zoey the zookeeper makes sure all animals are accounted for
+Dino the dog barks
+Waldo the wolf howls
+Charlie the chimp hoots
+George the gorilla grunts
+Harry the hippo grunts
+Ethan the elephant rumbles
+Carl the cat purrs
+Leo the lion roars
+
+11:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to feed the animals!*
+Zoey the zookeeper feeds the animals
+Dino the dog eats kibble
+Waldo the wolf eats raw meat
+Charlie the chimp eats fruit
+George the gorilla eats bamboo
+Harry the hippo eats grass
+Ethan the elephant eats fruit
+Carl the cat eats kibble
+Leo the lion eats raw meat
+
+12:00 PM
+*Lunch Time!*
+Stevie the zoo food server is serving food
+
+1:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to exercise the animals!*
+Zoey the zookeeper lets the animals out to exercise
+The canines dig!
+The primates roam in small groups
+The pachyderms roam together
+The felines roam seperated from each other
+Stevie the zoo food server is cleaning up
+
+2:00 PM
+
+3:00 PM
+Stevie the zoo food server is making food
+
+4:00 PM
+
+5:00 PM
+*Dinner Time!*
+Stevie the zoo food server is serving food
+
+6:00 PM
+Stevie the zoo food server is cleaning up
+
+7:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to put the animals to bed!*
+Zoey the zookeeper puts the animals to sleep
+Dino the dog goes to sleep
+Waldo the wolf goes to sleep
+Charlie the chimp goes to sleep
+George the gorilla goes to sleep
+Harry the hippo goes to sleep
+Ethan the elephant goes to sleep
+Carl the cat goes to sleep
+Leo the lion roars
+
+8:00 PM
+*The zoo is now closing!*
+Stevie the zoo food server leaves the zoo
+Andy the zoo announcer leaves the zoo
+Zoey the zookeeper leaves the zoo
+
+Day: 7
+
+8:00 AM
+Zoey the zookeeper arrives at the zoo
+Andy the zoo announcer arrives at the zoo
+Stevie the zoo food server arrives at the zoo
+*Good morning, this is the zoo announcer. All employees have arrived.*
+
+9:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to wake the animals!*
+Zoey the zookeeper wakes up the animals!
+Dino the dog wakes up
+Waldo the wolf wakes up
+Charlie the chimp wakes up
+George the gorilla wakes up
+Harry the hippo wakes up
+Ethan the elephant wakes up
+Carl the cat wakes up
+Leo the lion wakes up
+Stevie the zoo food server is making food
+
+10:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to take roll call of the animals!*
+Zoey the zookeeper makes sure all animals are accounted for
+Dino the dog barks
+Waldo the wolf howls
+Charlie the chimp hoots
+George the gorilla grunts
+Harry the hippo grunts
+Ethan the elephant rumbles
+Carl the cat purrs
+Leo the lion roars
+
+11:00 AM
+*This is the zoo announcer, Zoey the zookeeper is about to feed the animals!*
+Zoey the zookeeper feeds the animals
+Dino the dog eats kibble
+Waldo the wolf eats raw meat
+Charlie the chimp eats fruit
+George the gorilla eats bamboo
+Harry the hippo eats grass
+Ethan the elephant eats fruit
+Carl the cat eats kibble
+Leo the lion eats raw meat
+
+12:00 PM
+*Lunch Time!*
+Stevie the zoo food server is serving food
+
+1:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to exercise the animals!*
+Zoey the zookeeper lets the animals out to exercise
+The canines roam in a pack
+The primates roam in small groups
+The pachyderms roam together
+The felines roam seperated from each other
+Stevie the zoo food server is cleaning up
+
+2:00 PM
+
+3:00 PM
+Stevie the zoo food server is making food
+
+4:00 PM
+
+5:00 PM
+*Dinner Time!*
+Stevie the zoo food server is serving food
+
+6:00 PM
+Stevie the zoo food server is cleaning up
+
+7:00 PM
+*This is the zoo announcer, Zoey the zookeeper is about to put the animals to bed!*
+Zoey the zookeeper puts the animals to sleep
+Dino the dog goes to sleep
+Waldo the wolf goes to sleep
+Charlie the chimp goes to sleep
+George the gorilla goes to sleep
+Harry the hippo goes to sleep
+Ethan the elephant goes to sleep
+Carl the cat purrs
+Leo the lion goes to sleep
+
+8:00 PM
+*The zoo is now closing!*
+Stevie the zoo food server leaves the zoo
+Andy the zoo announcer leaves the zoo
 Zoey the zookeeper leaves the zoo
 
 
