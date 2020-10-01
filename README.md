@@ -1,4 +1,4 @@
-# CSCI 4448 Project 1
+# CSCI 4448 Project 2
 Austin Lucas
 
-All of my development assumptions are clearly commented in my project files. This is my first time depolying a project from intelliJ to a github repo so i am not sure if there needs to be any special instructions to run the application. Everything works as i want it to on my end.
+This is the updated readme for project two. I added 3 additional java classes to the project. ZooAnnouncer, ZooFoodServer, and ZooClock. The day to day for the zoo now runs mainly on a observer pattern. ZooEmployee objects observe the zooclock in order to know when to complete their tasks. More detailed comments are included in the code.
